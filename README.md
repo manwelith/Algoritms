@@ -1,0 +1,2 @@
+# Algoritms
+Patika Algoritma Ödevleri
